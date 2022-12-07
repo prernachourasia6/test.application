@@ -1,3 +1,4 @@
 this is file.ttxt
-
-second time changes in file by dev2
+second time changes in file by dev
+some changes in file.txt by dev1
+updated
